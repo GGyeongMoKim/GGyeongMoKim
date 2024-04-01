@@ -1,4 +1,14 @@
-### Hi there 👋
+## Introduction
+안녕하세요.
+
+## Career
+-영남대학교 미래자동차공학과 
+-영남대 컴퓨터공학과 복수전공
+
+## Links
+-Email : tag6856@gmail.com
+
+## Courses
 
 <!--
 **GGyeongMoKim/GGyeongMoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
