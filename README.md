@@ -6,14 +6,14 @@
 -영남대학교 미래자동차공학과 
 -영남대 컴퓨터공학과 복수전공
 
-## Contact
--Email : tag6856@gmail.com
-
 ## Tech Stack
 -used as the main 
 JAVA,MYSQL
 -used at list once
 PYTHON,C,C++,LINUX,JAVASCRIPT
+
+## Contact
+-Email : tag6856@gmail.com
 
 
 <!--
