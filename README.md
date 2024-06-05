@@ -1,7 +1,7 @@
 
 
 <h3 align="center"><b>## Introduction</b></h3>
-<p align="center">안녕하세요. 제 이름은 김경모이고 현재 대학교 재학중이며 백엔드에 관심이 생겨 공부 해보려 해요.</p>
+<p align="center">안녕하세요. 제 이름은 김경모이고 현재 대학교 재학중이며 컴공 복수전공 하고있습니다.</p>
 
 
 <h3 align="center"><b>## Courses</b></h3>
